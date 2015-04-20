@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+### JetBrains template
+.idea/
+
+### Node template
+node_modules
+
+### Bower template
+bower_components/
+
+# Minification CSS&JS
+css/min/
+js/min/
+
+# Stylus
+stylus/*.css
