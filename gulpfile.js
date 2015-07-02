@@ -68,7 +68,8 @@ gulp.task('stylus', function () {
 gulp.task('watch', function () {
     gulp.watch([
         './bower_components/**/*.css',
-        './css/**/*.css'
+        './css/**/*.css',
+        './stylus/**/*.css'
         ], ['css']);
     gulp.watch([
         './bower_components/**/*.js',

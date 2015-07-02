@@ -3,7 +3,7 @@
 .idea/
 
 ### Node template
-node_modules
+
 
 ### Bower template
 bower_components/
